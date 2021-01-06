@@ -1,0 +1,17 @@
+
+.navbar-dark {
+    background-color: #34dbeb;
+}
+
+.navbarbrand-font {
+    font-family: 'Mitr', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.navbarlink-font {
+    font-family: 'Mitr', sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    color: white !important;
+}
